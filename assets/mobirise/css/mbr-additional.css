@@ -1,0 +1,306 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i);
+
+
+
+
+
+#dropdown-menu-s .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-s .nav .link,
+#dropdown-menu-s .dropdown-item {
+  font-size: 0.8em;
+  color: #000000;
+  font-family: 'Open Sans', sans-serif;
+}
+#dropdown-menu-s .navbar,
+#dropdown-menu-s .dropdown-menu {
+  background: #efefef;
+}
+#dropdown-menu-s .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-s .dropdown-menu a:hover,
+#dropdown-menu-s .dropdown-menu a:focus {
+  background: #e5e5e5;
+}
+#dropdown-menu-s .navbar-toggler {
+  color: #000000;
+}
+#slider-u H1 {
+  text-align: center;
+  color: #000000;
+}
+#footer1-4c P {
+  font-size: 9px;
+  color: #777777;
+  font-family: 'PT Serif', serif;
+}
+#header3-5i H3 {
+  font-size: 15px;
+  text-align: center;
+  font-family: 'PT Serif', serif;
+}
+#header3-5i P {
+  text-align: center;
+  font-size: 10px;
+  font-family: 'Open Sans', sans-serif;
+  color: #000000;
+}
+#header3-5i SPAN {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 12px;
+}
+
+
+
+
+
+#dropdown-menu-86 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-86 .nav .link,
+#dropdown-menu-86 .dropdown-item {
+  font-size: 0.8em;
+  color: #000000;
+  font-family: 'Open Sans', sans-serif;
+}
+#dropdown-menu-86 .navbar,
+#dropdown-menu-86 .dropdown-menu {
+  background: #efefef;
+}
+#dropdown-menu-86 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-86 .dropdown-menu a:hover,
+#dropdown-menu-86 .dropdown-menu a:focus {
+  background: #e5e5e5;
+}
+#dropdown-menu-86 .navbar-toggler {
+  color: #000000;
+}
+#footer1-87 P {
+  font-size: 9px;
+  color: #777777;
+  font-family: 'PT Serif', serif;
+}
+#header3-88 H3 {
+  font-size: 15px;
+  text-align: center;
+  font-family: 'PT Serif', serif;
+}
+#header3-88 P {
+  text-align: center;
+  font-size: 10px;
+  font-family: 'Open Sans', sans-serif;
+  color: #000000;
+}
+#header3-88 SPAN {
+  font-size: 12px;
+  font-family: 'Open Sans', sans-serif;
+}
+#gallery1-89 SMALL {
+  font-size: 8px;
+  color: #cccccc;
+}
+#gallery1-8a SMALL {
+  font-size: 8px;
+  color: #cccccc;
+}
+#gallery1-8b SMALL {
+  font-size: 8px;
+  color: #cccccc;
+}
+#gallery1-8c SMALL {
+  font-size: 8px;
+  color: #cccccc;
+}
+#gallery1-8d SMALL {
+  font-size: 8px;
+  color: #cccccc;
+}
+#gallery1-8f SMALL {
+  font-size: 8px;
+  color: #cccccc;
+}
+#gallery1-8e SMALL {
+  font-size: 8px;
+  color: #cccccc;
+}
+#gallery1-8g SMALL {
+  font-size: 8px;
+  color: #cccccc;
+}
+#gallery1-8i SMALL {
+  font-size: 8px;
+  color: #cccccc;
+}
+
+
+
+
+
+
+
+
+#header3-7a H3 {
+  font-size: 15px;
+  text-align: center;
+  font-family: 'PT Serif', serif;
+}
+#header3-7a P {
+  text-align: center;
+  font-size: 10px;
+  font-family: 'Open Sans', sans-serif;
+  color: #000000;
+}
+#header3-7a SPAN {
+  font-size: 12px;
+  font-family: 'Open Sans', sans-serif;
+}
+#dropdown-menu-2btn-73 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-73 .nav .link,
+#dropdown-menu-2btn-73 .dropdown-item {
+  font-size: 0.8em;
+  color: #000000;
+  font-family: 'Open Sans', sans-serif;
+}
+#dropdown-menu-2btn-73 .navbar,
+#dropdown-menu-2btn-73 .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-2btn-73 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-73 .dropdown-menu a:hover,
+#dropdown-menu-2btn-73 .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-2btn-73 .navbar-toggler {
+  color: #000000;
+}
+#footer1-74 P {
+  font-size: 9px;
+  color: #777777;
+  font-family: 'PT Serif', serif;
+}
+#header1-76 H1 {
+  font-size: 12px;
+}
+#header1-76 P {
+  font-size: 10px;
+}
+#header1-76 .btn {
+  font-size: 8px;
+  font-family: 'Open Sans', sans-serif;
+}
+#header1-77 H1 {
+  font-size: 12px;
+}
+#header1-77 P {
+  font-size: 10px;
+}
+#header1-77 .btn {
+  font-size: 8px;
+  font-family: 'Open Sans', sans-serif;
+}
+#header1-78 P {
+  font-size: 10px;
+  text-align: left;
+}
+#header1-78 H1 {
+  font-size: 12px;
+}
+#header1-78 .btn {
+  font-size: 8px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+
+
+
+
+#dropdown-menu-2btn-5n .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-5n .nav .link,
+#dropdown-menu-2btn-5n .dropdown-item {
+  font-size: 0.8em;
+  color: #000000;
+  font-family: 'Open Sans', sans-serif;
+}
+#dropdown-menu-2btn-5n .navbar,
+#dropdown-menu-2btn-5n .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-2btn-5n .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-5n .dropdown-menu a:hover,
+#dropdown-menu-2btn-5n .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-2btn-5n .navbar-toggler {
+  color: #000000;
+}
+#footer1-5o P {
+  font-size: 9px;
+  color: #777777;
+  font-family: 'PT Serif', serif;
+}
+#header3-5p H3 {
+  font-size: 15px;
+  text-align: center;
+  font-family: 'PT Serif', serif;
+}
+#header3-5p P {
+  text-align: center;
+  font-size: 10px;
+  font-family: 'Open Sans', sans-serif;
+  color: #000000;
+}
+#header3-5p SPAN {
+  font-size: 12px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+
+
+
+
+#dropdown-menu-2btn-1h .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-1h .nav .link,
+#dropdown-menu-2btn-1h .dropdown-item {
+  font-size: 0.8em;
+  color: #000000;
+  font-family: 'Open Sans', sans-serif;
+}
+#dropdown-menu-2btn-1h .navbar,
+#dropdown-menu-2btn-1h .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-2btn-1h .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-1h .dropdown-menu a:hover,
+#dropdown-menu-2btn-1h .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-2btn-1h .navbar-toggler {
+  color: #000000;
+}
+#footer1-4c P {
+  font-size: 9px;
+  color: #777777;
+  font-family: 'PT Serif', serif;
+}
+#header3-5g H3 {
+  font-size: 15px;
+  text-align: center;
+  font-family: 'PT Serif', serif;
+}
+#header3-5g P {
+  text-align: left;
+  font-size: 10px;
+  font-family: 'Open Sans', sans-serif;
+  color: #000000;
+}
+#header3-5g SPAN {
+  font-size: 12px;
+  font-family: 'Open Sans', sans-serif;
+}

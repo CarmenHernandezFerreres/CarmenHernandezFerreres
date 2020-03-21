@@ -17,7 +17,7 @@
       ]
     },
     "versionFirst": "4.4.1",
-    "uniqCompNum": 343,
+    "uniqCompNum": 346,
     "versionPublish": "4.4.1",
     "favicon": "",
     "noImageResize": "",
@@ -338,13 +338,6 @@
             "bgColor": "#ffffff",
             "images": [
               {
-                "image": "@PROJECT_PATH@/assets/images/faye-44-2000x2651.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/faye-44-2000x2651-800x1060.jpg",
-                "alt": "",
-                "caption": "DESIGN SCENE<br>Designs: Anel Yaos &amp; Bershka<br>",
-                "active": false
-              },
-              {
                 "image": "@PROJECT_PATH@/assets/images/faye-57-2000x2651.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/faye-57-2000x2651-800x1060.jpg",
                 "alt": "",
@@ -352,8 +345,15 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/faye-32-2000x2651.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/faye-32-2000x2651-800x1060.jpg",
+                "image": "@PROJECT_PATH@/assets/images/faye-23-2000x2666.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/faye-23-2000x2666-800x1066.jpg",
+                "alt": "",
+                "caption": "DESIGN SCENE<br>Designs: Agatha Ruiz de la Prada &amp; Sunday Morning",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/faye-53-2000x2651.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/faye-53-2000x2651-800x1060.jpg",
                 "alt": "",
                 "caption": "DESIGN SCENE<br>Designs: Agatha Ruiz de la Prada &amp; Sunday Morning",
                 "active": false
@@ -361,13 +361,6 @@
               {
                 "image": "@PROJECT_PATH@/assets/images/faye-21-2000x2677.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/faye-21-2000x2677-800x1070.jpg",
-                "alt": "",
-                "caption": "DESIGN SCENE<br>Designs: Agatha Ruiz de la Prada &amp; Sunday Morning",
-                "active": true
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/faye-46-2000x2666.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/faye-46-2000x2666-800x1066.jpg",
                 "alt": "",
                 "caption": "DESIGN SCENE<br>Designs: Agatha Ruiz de la Prada &amp; Sunday Morning",
                 "active": false
@@ -380,15 +373,22 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/faye-43-2000x2666.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/faye-43-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/faye-32-2000x2651.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/faye-32-2000x2651-800x1060.jpg",
+                "alt": "",
+                "caption": "DESIGN SCENE<br>Designs: Agatha Ruiz de la Prada &amp; Sunday Morning",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/faye-46-2000x2666.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/faye-46-2000x2666-800x1066.jpg",
                 "alt": "",
                 "caption": "DESIGN SCENE<br>Designs: Agatha Ruiz de la Prada &amp; Sunday Morning",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/faye-23-2000x2666.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/faye-23-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/faye-43-2000x2666.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/faye-43-2000x2666-800x1066.jpg",
                 "alt": "",
                 "caption": "DESIGN SCENE<br>Designs: Agatha Ruiz de la Prada &amp; Sunday Morning",
                 "active": false
@@ -666,11 +666,11 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/4-1-2000x3000.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/4-1-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/5-1-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/5-1-2000x3000-800x1200.jpg",
                 "alt": "",
                 "caption": "DESIGN SCENE<br>Designs: Agatha Ruiz de la Prada &amp; Sunday Morning",
-                "active": false
+                "active": true
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/11-2000x3000.jpg",
@@ -684,7 +684,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/2-2000x3000-800x1200.jpg",
                 "alt": "",
                 "caption": "DESIGN SCENE<br>Designs: Agatha Ruiz de la Prada &amp; Sunday Morning",
-                "active": true
+                "active": false
               }
             ]
           },
@@ -740,11 +740,11 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/faye-50-2000x2651.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/faye-50-2000x2651-800x1060.jpg",
+                "image": "@PROJECT_PATH@/assets/images/faye-25-2000x2678.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/faye-25-2000x2678-800x1071.jpg",
                 "alt": "",
                 "caption": "DESIGN SCENE<br>Designs: Anel Yaos &amp; Cherry Massia<br>",
-                "active": false
+                "active": true
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/faye-8-2000x2588.jpg",
@@ -765,7 +765,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/faye-37-2000x2652-800x1060.jpg",
                 "alt": "",
                 "caption": "DESIGN SCENE<br>Designs:Brea &amp; Cherry Massia",
-                "active": true
+                "active": false
               }
             ]
           },
@@ -1382,7 +1382,7 @@
             "showMeta": true
           },
           "title": "<span style=\"font-weight: normal;\">CARMEN HERNÁNDEZ<br>&nbsp;</span><br>",
-          "meta": "Fashion stylist &amp; Fashion designer, Spain<br>Published works: Design Scene, Vogue IT, Kaltblut magazine, Koos magazine...<br>Fashion editorials, model test agency and costume stylist in music video, dressing Inma Salomon Spains first ballet dancer.<br>Assistant in design fittings, backstage runner, dresser, as well as contributing to styling during inhouse photo shoots with ARP team in magazines such as Vanity Fair.<br><br>",
+          "meta": "Fashion stylist &amp; Fashion designer.<br><br>Styling works Spain &amp; UK: Fashion editorials, model test agency and costume stylist in music video, dressing Inma Salomon Spains first ballet dancer.<br><br>Published works: Design Scene, Vogue IT, Kaltblut magazine, Koos magazine...<br><br>Assistant in design fittings, backstage runner and dresser, as well as contributing to styling during inhouse photo shoots with Agatha Ruiz de la Prada team in magazines such as Vanity Fair Spain.<br>",
           "_tags": [
             "Theme"
           ],
